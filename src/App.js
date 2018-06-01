@@ -35,7 +35,7 @@ export default class App extends Component {
 
     try {
       const result = await fetch(
-        `http://api.giphy.com/v1/gifs/search?q=${term.replace(
+        `https://api.giphy.com/v1/gifs/search?q=${term.replace(
           /\s/g,
           '+'
         )}&api_key=dc6zaTOxFJmzC`

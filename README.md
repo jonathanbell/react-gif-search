@@ -2,7 +2,7 @@
 
 Searches GIFs and shows them on the webpage.
 
-It's fun.. Why not?
+It's fun.. Why not? Demo: <https://jonathanbell.github.io/react-gif-search>
 
 ## Installation
 

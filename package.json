@@ -2,7 +2,7 @@
   "name": "react-gif-search",
   "version": "0.0.1",
   "private": true,
-  "homepage": "http://jonathanbell.github.io/react-gif-search",
+  "homepage": "https://jonathanbell.github.io/react-gif-search",
   "dependencies": {
     "react": "^16.4.0",
     "react-debounce-input": "^3.2.0",
