@@ -1,0 +1,15 @@
+{
+  "short_name": "React GIF Search",
+  "name": "React GIF Search",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#db5945",
+  "background_color": "#ffffff"
+}
